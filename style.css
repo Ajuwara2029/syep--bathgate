@@ -1,0 +1,33 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box; 
+}    
+
+body{
+body{
+background-color: blueviolet;
+    color: azure #333;
+    text-align: center;
+}
+
+.section{
+    padding: 40px 20px;
+}
+
+.hero{
+    padding: 50px 20px;
+}
+
+.hero h1{
+    font-size: 80px;
+}
+    @media {max- widith: 768px}{
+.hero h1 { font-size:40px;}
+body (background-color: 40px and 20px)
+ }
+  .hero h1 
+  .hero- text{
+display: flex;
+  background-color: aqua;
+  padding: 20px;
