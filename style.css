@@ -6,11 +6,11 @@ box-sizing: border-box;
 
 body{
 body{
-background-color: blueviolet;
+background-color:fuchsia  (175,196,175);
     color: azure #333;
     text-align: center;
+line-height: 3;
 }
-
 .section{
     padding: 40px 20px;
 }
@@ -30,4 +30,7 @@ body (background-color: 40px and 20px)
   .hero- text{
 display: flex;
   background-color: aqua;
-  padding: 20px;
+  color:#333;
+text-align: center;
+line-height: 3;
+  }
